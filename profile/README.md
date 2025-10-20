@@ -13,7 +13,7 @@ Bienvenue chez **Plume Web Service**, le fournisseur de services cloud qui met l
 * **Performance optimisée** : Serveurs rapides et scalables pour répondre à tous vos besoins.
 * **Support francophone dédié** : Un accompagnement 100% en français, de l'installation à la maintenance.
 * Des technologies majoritairement open source
-* **Assistant IA "Plume" disponible 24h/24** : Pour vous aider à gérer vos services, répondre à vos questions et optimiser votre cloud.
+* **Assistant IA "Plume" disponible 24h/24** : Propulsé par les modèles Mistral, pour vous aider à gérer vos services, répondre à vos questions et optimiser votre cloud.
 
 ---
 
